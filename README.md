@@ -2,9 +2,6 @@
 
 Um aplicativo de chat simples e funcional construído com React Native. Este projeto foi criado como um estudo de caso para demonstrar boas práticas no desenvolvimento mobile, incluindo gerenciamento de estado com Hooks, comunicação com API e uma excelente experiência do usuário com Atualização Otimista (Optimistic UI).
 
-![ pré-visualização do aplicativo de chat](https://i.imgur.com/uG9XWd9.png)
-*(Dica: Substitua o link acima pelo link da sua própria imagem ou GIF. Um GIF mostrando o app funcionando seria incrível!)*
-
 ## ✨ Features
 
 * **Visualização de Mensagens:** Exibe a conversa em formato de "bolhas" de chat.
